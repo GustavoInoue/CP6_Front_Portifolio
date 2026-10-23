@@ -23,8 +23,8 @@ A página reúne skills, experiências e cinco projetos reais, com visual sério
 
 ## Demo
 
-- **Site:** *(adicionar o link do deploy, ex.: `https://gv-portfolio.vercel.app`)*
-- **Repositório:** *(adicionar o link do GitHub)*
+- **Site:** *(adicionar o link do deploy, ex.: cp-6-front-portifolio.vercel.app
+- **Repositório:** https://github.com/GustavoInoue/CP6_Front_Portifolio
 
 ## Destaques
 
